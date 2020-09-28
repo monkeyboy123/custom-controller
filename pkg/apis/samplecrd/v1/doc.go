@@ -1,4 +1,4 @@
-//+k8s:deepcopy-gen=package
+// +k8s:deepcopy-gen=package
 
-//+groupName=samplecrd.k8s.io
+// +groupName=samplecrd.k8s.io
 package v1
